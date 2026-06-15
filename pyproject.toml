@@ -33,3 +33,9 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/amirizadi-1/tardigrade-gwas"
+Repository = "https://github.com/amirizadi-1/tardigrade-gwas"
+Issues = "https://github.com/amirizadi-1/tardigrade-gwas/issues"
+PyPI = "https://pypi.org/project/tardigrade-gwas/"
