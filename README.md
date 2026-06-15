@@ -2,7 +2,7 @@
 
 **Tardigrade GWAS** is a lightweight Python library for comparing gene-level signals across multiple GWAS summary-statistics files. It provides significant-gene extraction, pairwise overlap analysis, Jaccard similarity, cross-dataset consensus scoring, report generation, similarity heatmaps, and Circos-style GWAS visualization.
 
-Developed by **Amir Izadi** and **Zahra Aghabeygi**.
+Developed by **[Amir Izadi](https://github.com/amirizadi-1)** and **[Zahra Aghabeygi](https://github.com/zahraaghabeygi)**.
 
 > Tardigrade GWAS is a research utility. It is not a clinical diagnostic system and should not be used as the sole basis for medical decisions.
 
@@ -835,8 +835,8 @@ tg.DEFAULT_MAX_PLOT_POINTS
 
 ## Authors and Contributions
 
-- **Amir Izadi** — Technical development, software engineering, analytical implementation, optimization, Python-library development, testing, debugging, and Windows/Linux deployment.
-- **Zahra Aghabeygi** — Visual identity, logo and TARDIGRADE wordmark design, color-system development, user-interface structure, dashboard design, and UX direction.
+- **[Amir Izadi](https://github.com/amirizadi-1)** — Technical development, software engineering, analytical implementation, optimization, Python-library development, testing, debugging, and Windows/Linux deployment.
+- **[Zahra Aghabeygi](https://github.com/zahraaghabeygi)** — Visual identity, logo and TARDIGRADE wordmark design, color-system development, user-interface structure, dashboard design, and UX direction.
 
 Project ideation and concept development were shared equally between both contributors. AI-assisted tools were used as supporting resources in the technical and UI/UX workflows; all final decisions, implementation, testing, refinement, and approval were carried out by the human contributors.
 

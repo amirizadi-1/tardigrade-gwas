@@ -28,8 +28,8 @@ Portable Windows and Linux builds are available from the GitHub Releases page.
 
 ## Development and Design
 
-- **Amir Izadi** — Desktop application programming, technical development, software optimization, testing, debugging, packaging, and Windows/Linux deployment.
-- **Zahra Aghabeygi** — Visual identity, logo and TARDIGRADE wordmark design, color-system development, dashboard design, UI structure, and UX direction.
+- **[Amir Izadi](https://github.com/amirizadi-1)** — Desktop application programming, technical development, software optimization, testing, debugging, packaging, and Windows/Linux deployment.
+- **[Zahra Aghabeygi](https://github.com/zahraaghabeygi)** — Visual identity, logo and TARDIGRADE wordmark design, color-system development, dashboard design, UI structure, and UX direction.
 
 The application’s concept and product direction were developed collaboratively by both contributors. AI-assisted tools were used as supporting resources in selected technical and design tasks. The final implementation, testing, refinement, and design decisions were reviewed and approved by the contributors.
 

@@ -2,7 +2,7 @@
 
 Tardigrade · Multi-GWAS Explorer was collaboratively developed by Amir Izadi and Zahra Aghabeygi, with distinct responsibilities across technical engineering and visual design.
 
-## Amir Izadi — Technical Development, Software Engineering, and Deployment
+## [Amir Izadi](https://github.com/amirizadi-1) — Technical Development, Software Engineering, and Deployment
 
 * Designed and developed the application’s technical architecture and core functionality.
 * Implemented the multi-GWAS analysis workflow, including data preprocessing, significant-gene extraction, gene-level overlap analysis, similarity calculation, consensus analysis, and report generation.
@@ -17,7 +17,7 @@ Tardigrade · Multi-GWAS Explorer was collaboratively developed by Amir Izadi an
 * Performed software testing, debugging, troubleshooting, compatibility assessment, and technical refinement throughout development.
 * Prepared the project for open-source publication, software distribution, and public release.
 
-## Zahra Aghabeygi — Visual Identity, Branding, UI, and UX Design
+## [Zahra Aghabeygi](https://github.com/zahraaghabeygi) — Visual Identity, Branding, UI, and UX Design
 
 * Designed the project’s overall visual identity and brand direction.
 * Designed and selected the Tardigrade logo, including its adaptation for use on dark backgrounds.
